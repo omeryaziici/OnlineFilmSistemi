@@ -1,6 +1,11 @@
 # OnlineFilmSistemi
 Başlangıç seviye java ile backend web development patikası -> Veri yapıları ve algoritmalar > Online film sistemi
 
-# image
+# Soru: Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
-![image](https://user-images.githubusercontent.com/102998968/161643437-cdb6674d-817b-496d-9338-207c9e5dfa76.png)
+Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
+Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
+Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
+Normal kullanıcılar ve aboneler film satın alabilirler.
+Eğer film mevcut değil ise talep edilebilir.
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
