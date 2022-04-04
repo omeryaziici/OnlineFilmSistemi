@@ -11,4 +11,4 @@ Eğer film mevcut değil ise talep edilebilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 
-![image](https://user-images.githubusercontent.com/102998968/161644882-d46ef0e1-3851-4ab3-8dcb-259cf98819f7.png)
+![image](https://user-images.githubusercontent.com/102998968/161645335-0fc4c749-4381-4227-ae8c-ba2f540f18a5.png)
